@@ -1,7 +1,4 @@
-# SKYFICE-v1.0.zip
-.Create this folder:
-
-`
+# skyfice-admin/
 skyfice/
   config/
     ai.config.json
